@@ -4,7 +4,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-007ACC?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
-### [`Final Project Notebook`](FinalProject_Group082_FA23.ipynb)
+### [`Final Project Notebook`](Final_Notebook.ipynb)
 ### [`Tristan's Animation Script`](TristanCooper_animation_script.ipynb)
 Welcome to the GitHub repository for our Walmart Data Science Project. This project is a comprehensive analysis of Walmart's sales trends over three years, focusing particularly on the impact of temperature and seasonal variations.
 
